@@ -1,7 +1,7 @@
 #  GuardianNet2.0 — AI-Powered Deepfake Detection SIEM
 > Real-time deepfake detection for images, video, and voice — with enterprise SIEM integration, ML ensemble scoring, and cloud-native deployment.
 
-![Architecture](docs/architecture-diagram.png)
+![Architecture](docs/ARCHITECTURE.md)
 
 ##  Quick Start (One Command)
 ```bash
